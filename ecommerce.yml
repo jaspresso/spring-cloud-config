@@ -1,6 +1,3 @@
 token:
   expiration-time: 864000000
-  secret: a-string-secret-at-least-256-bits-long-123456789-from-git
-
-gateway:
-  ip: 192.168.0.0
+  secret: changed-a-string-secret-at-least-256-bits-long-123456789-from-git
