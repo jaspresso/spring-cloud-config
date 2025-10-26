@@ -2,5 +2,5 @@ token:
   expiration-time: 864000000
   secret: second-changed-a-string-secret-at-least-256-bits-long-123456789-from-git
 
-greeting:
-  message: Welcome to the Simple E-commerce - 2nd. (config server)
+# greeting:
+#   message: Welcome to the Simple E-commerce - 2nd. (config server)
