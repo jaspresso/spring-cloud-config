@@ -1,5 +1,5 @@
 token:
   expiration_time: 864000000 
-  secret: changed-value1-at-least-256-bits-long-123456789-from-remote-repo-application
+  secret: changed22-value1-at-least-256-bits-long-123456789-from-remote-repo-application
 gateway:
   ip: 10.0.0.12
