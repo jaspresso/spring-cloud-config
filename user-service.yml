@@ -5,8 +5,6 @@ spring:
     username: sa
     password: '{cipher}75e6fc740dd400a8f71e4555ddd469240ff5e4ee242c36d99b021b7eb162f6f7'
 
-order-service:
-  url: http://127.0.0.1:8000/order-service/%s/orders
  
 
 
