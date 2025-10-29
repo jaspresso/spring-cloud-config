@@ -3,7 +3,7 @@ spring:
     url: jdbc:h2:mem:testdb
     driver-class-name: org.h2.Driver
     username: sa
-    password: '{cipher}AYAxhmQIJqiCWqebZ1i33dhgwFdN0qXNitW1X18EJ8w//8isrztL6JIaZO1XD8kFWKiX3QG8ivLnF+nbm3+jiH+1cUYjc1orIGPjv/oKS90j7FkQklyEeQBiJYW7AIf8qmQSzN2aGtLmTQlbbL06HAv/QQkrMuRk2IZkLPhXBVEBsiIB+3iZt/3i1qwxsOOza07dbMIphWxNBPUD7vimyHeKtl3fvbghFQuDpxD+lVB7bV+jIV6ryT4mqofm6/J17uDDT08rILHwyDcOSgrjNDkhNgiZdALexBy2fIWge++zxUPs31MI06mCma7Ms/TnWiThbKclrjmb1LKPOESftvujwx5X6bImDpP8jylpsXlgBYLcxi7gouVQLOX3Je1M501I/g/4g7kGaG/ct1yl76Cni0/HeiSd6sLmAbv2oOrwDSRjZ8T59i60BXpomPo+6ivGtxdQ1HliVTZhynhZl2++iRxOyDc47bG/hZhLudUOJqrhEEKIqI+Sxed4NVzusyaaSGVJshWM4m1ZUoXIiRacYTA4eAQwyxm+ONLTMgL2PQ=='
+    password: '{cipher}75e6fc740dd400a8f71e4555ddd469240ff5e4ee242c36d99b021b7eb162f6f7'
 
 order-service:
   url: http://127.0.0.1:8000/order-service/%s/orders
