@@ -1,6 +1,6 @@
 token:
   expiration_time: 864000000 
-  secret: '{cipher}AYClJjSJaoys8o/aB+VW2XyBXXK/XvMRKq4YDc39dbtHa6T+ZRQ/VCTwpfuHFtQnZXS7ytXA9Z3nxRnmqtgsBRWhsid6RgjersuNvOVdSABAeJCoo386XHRQAfGTO2gbtD67hq/orf3WC9zRyll0prlq7RzQn/7TlsAHQqyrxU/qNlB7lHCkdYIEnS21eD9CzMCjuBWBnYucqtBWiQWsDnJfpSjhpdWL9CdBq+RJDubr03rC0X4+uxvU9n4PleiQ4kCq5k16RCPBFQnmM9hM05MJKjQAWgW37vnoiDFifLSF98QzIRt+2Q8/GWYoWmxf4a92jOWAeugTt3VNafOeXuxT+5XTZ2Ta7Zd8mdJh1FaA4oSHS0m41YRn+XsoBUatl2HH+Pv84VCLgvDjc5v2S+xSxE9kcmG+/MWzMvPFjvrq8IaBsTFF49Mzx4uNPaNG8Ma0mCgMb9YS3FNQutU4PuZZC9Hdvvp87LKo+In3JG7yf0aPXiThdijKD+vXCK/tIif5u2qpUIuEeU4EOhQJAP8atIRJfCRajAHD+B1HpvefM4nAOQlgx0xdi/DCc7Bug4rJQ8mInmezdirJbNuTPjgiUMcbW38DolwhvdVX1mV5mw401rPOWD0hBeAfPEVkDW4='
+  secret: 'changed-value2-at-least-256-bits-long-123456789-from-remote-repo-application'
 
 gateway:
   ip: 10.0.0.12
